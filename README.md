@@ -1,2 +1,2 @@
 # DL_Experiment
-Sequence to Sequence Modeling For CIFAR10
+Compartive study of Normal Neural network model and Mutiple pooling Layer Archeiture
